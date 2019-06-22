@@ -1,7 +1,10 @@
-lede(coolsnowwolf):https://github.com/coolsnowwolf/lede
-
-luci-app-unblockmusic(maxlicheng):https://github.com/maxlicheng/luci-app-unblockmusic
-
+- 参考：
+  - lede(coolsnowwolf):https://github.com/coolsnowwolf/lede
+  - luci-app-unblockmusic(maxlicheng):https://github.com/maxlicheng/luci-app-unblockmusic
+  - https://blog.csdn.net/ypbsyy/article/details/81218361
+  - https://www.right.com.cn/forum/thread-344012-1-1.html
+  - https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=344825&page=1
+  - 
 
 由于原作者提供的IPK并未包含我设备，所以自己编译了。
 - 设备
