@@ -1,4 +1,5 @@
 lede(coolsnowwolf):https://github.com/coolsnowwolf/lede
+
 luci-app-unblockmusic(maxlicheng):https://github.com/maxlicheng/luci-app-unblockmusic
 
 
@@ -9,6 +10,7 @@ luci-app-unblockmusic(maxlicheng):https://github.com/maxlicheng/luci-app-unblock
   - K2
 
 步骤：
+```
 ./scripts/feeds update -a 
 cd package
 git clone https://github.com/maxlicheng/luci-app-unblockmusic.git
@@ -17,3 +19,4 @@ cd ..
 make menuconfig
 #在luci->application选中插件,编译
 make package/luci-app-unblockmusic/compile V=99
+```
