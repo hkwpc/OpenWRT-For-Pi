@@ -4,7 +4,7 @@
   - https://blog.csdn.net/ypbsyy/article/details/81218361
   - https://www.right.com.cn/forum/thread-344012-1-1.html
   - https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=344825&page=1
-  - 
+  - https://mlapp.cn/374.html
 
 由于原作者提供的IPK并未包含我设备，所以自己编译了。
 - 设备
