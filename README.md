@@ -1,9 +1,9 @@
 没有找到合适的lean大的OpenWrt For （我的设备）的固件，干脆自己干。
 - 设备
-  - rangePi Zero 
-  - rangePi PC 
+  - OrangePi Zero 
+  - OrangePi PC 
   - OrangePi r1
-  - 树莓派 2B (不提供，因为有人编译了）
+  - [树莓派 2B](https://mlapp.cn/369.html)
 
   
 - 完整的编译步骤：
