@@ -10,7 +10,7 @@
 ```
 # 编译环境Ubuntu19.04
 sudo apt-get install build-essential subversion git-core libncurses5-dev zlib1g-dev gawk flex quilt libssl-dev xsltproc libxml-parser-perl mercurial bzr ecj cvs unzip
-git clone https://github.com/coolsnowwolf/lede.git
+git clone https://github.com/coolsnowwolf/lede
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 make defconfig
