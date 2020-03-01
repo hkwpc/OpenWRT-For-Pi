@@ -1,9 +1,12 @@
-没有找到合适的lean大的OpenWrt For （我的设备）的固件，干脆自己干。
-- 设备
+- 支持设备
+  - Nano Pi NEO2 （512M）
+
+（不再更新）
   - OrangePi Zero 
   - OrangePi PC 
   - OrangePi r1
-  - [树莓派 2B](https://mlapp.cn/369.html)
+（使用别人固件）
+  - [树莓派 2B-4](https://mlapp.cn/369.html)
 
   
 - 完整的编译步骤：
