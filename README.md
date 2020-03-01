@@ -1,3 +1,5 @@
+```
+
 - 支持设备
   - Nano Pi NEO2 （512M）
 
@@ -5,9 +7,11 @@
   - OrangePi Zero 
   - OrangePi PC 
   - OrangePi r1
+  
 （使用别人固件）
   - [树莓派 2B-4](https://mlapp.cn/369.html)
-
+  
+```
   
 - 完整的编译步骤：
 ```
