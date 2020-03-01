@@ -28,6 +28,7 @@ make menuconfig
 make download V=s
 make V=99 # 或者 make -j1 V=s
 make  -j8 V=s
+make -j5 V=99 2>&1 |tee build.log |grep -i error
 ```
 
 - 编译单个插件步骤：
